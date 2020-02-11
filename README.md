@@ -28,7 +28,7 @@ sfdx force:auth:web:login -d -a myhuborg
 3. Clone the pdfViewer repository:
 
 ```
-git clone https://github.com/annyhe/pdfViewer
+git clone https://github.com/firione/pdfViewer
 cd pdfViewer
 ```
 
